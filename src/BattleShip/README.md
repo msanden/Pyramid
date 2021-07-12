@@ -20,5 +20,4 @@ diagonally adjacent). The user would not be aware of the ship placement location
    * A destroyer occupies 2 cells
    * A submarine occupies 1 cell. 
 
-#### Reference/Resource
-https://github.com/qinqinzhao/Battleship
+
